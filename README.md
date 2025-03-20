@@ -27,13 +27,13 @@ The dataset comprises 3 wearable wireless acceleration sensors recording 3D
 acceleration at 64 Hz. The sensors are placed at the ankle (shank), on the thigh
 just above the knee, and on the hip.
 
-2.Mendley Dataset-
-Sensors used – Accelerometers: (X,Y,Z axes on L,R shank, arm , waist)
-Gyroscopes: (X,Y,Z axes on L,R shank, arm , waist)
-Electromyography (EMG): Placed on muscles involved in gait
-Electroencephalography (EEG): Electrodes placed on the scalp.
-Skin Conductance Sensors: Measures the electrical conductance
-of the skin
+2.Mendley Dataset-  
+Sensors used – Accelerometers: (X,Y,Z axes on L,R shank, arm , waist)   
+Gyroscopes: (X,Y,Z axes on L,R shank, arm , waist)  
+Electromyography (EMG): Placed on muscles involved in gait  
+Electroencephalography (EEG): Electrodes placed on the scalp.    
+Skin Conductance Sensors: Measures the electrical conductance  
+of the skin  .
 
 # METHODOLOGY
 1.Dataset collection  
