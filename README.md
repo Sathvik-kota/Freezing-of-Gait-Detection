@@ -25,7 +25,9 @@ patients experiencing FOG.
 1.Daphnet Dataset -  
 The dataset comprises 3 wearable wireless acceleration sensors recording 3D
 acceleration at 64 Hz. The sensors are placed at the ankle (shank), on the thigh
-just above the knee, and on the hip.
+just above the knee, and on the hip.  
+link:-https://archive.ics.uci.edu/dataset/245/daphnet+freezing+of+gait
+
 
 2.Mendley Dataset-  
 Sensors used:-
@@ -34,7 +36,7 @@ Gyroscopes: (X,Y,Z axes on L,R shank, arm , waist)
 Electromyography (EMG): Placed on muscles involved in gait  
 Electroencephalography (EEG): Electrodes placed on the scalp.    
 Skin Conductance Sensors: Measures the electrical conductance  
-of the skin  .
+of the skin  .  
 Link :- https://data.mendeley.com/datasets/r8gmbtv7w2/3
 
 
