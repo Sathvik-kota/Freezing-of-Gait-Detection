@@ -20,3 +20,17 @@ algorithms, thereby enhancing the model's ability to capture the complex
 interplay of factors contributing to FOG. Ultimately, this project seeks to provide
 insights that could lead to better management and treatment strategies for
 patients experiencing FOG.
+
+# DATASETS USED FOR IMPLEMENTATION:  
+# 1.Daphnet Dataset -  
+The dataset comprises 3 wearable wireless acceleration sensors recording 3D
+acceleration at 64 Hz. The sensors are placed at the ankle (shank), on the thigh
+just above the knee, and on the hip.
+
+# 1.Mendley Dataset-
+Sensors used – Accelerometers: (X,Y,Z axes on L,R shank, arm , waist)
+Gyroscopes: (X,Y,Z axes on L,R shank, arm , waist)
+Electromyography (EMG): Placed on muscles involved in gait
+Electroencephalography (EEG): Electrodes placed on the scalp.
+Skin Conductance Sensors: Measures the electrical conductance
+of the skin
