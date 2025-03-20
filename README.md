@@ -36,14 +36,13 @@ Skin Conductance Sensors: Measures the electrical conductance
 of the skin
 
 # METHODOLOGY
-1.Dataset collection
-2.Exploratory Data Analysis/Data pre-processing (handling missing values , balancing the data, removing
-outliers , removing duplicates in the data , normalization/standardization )
-3.Dividing data into train and test( 80:20 ,
-70:30,60:40,50:50 respectively)
+1.Dataset collection  
+2.Exploratory Data Analysis/Data pre-processing (handling missing values , balancing the data, removing  
+outliers , removing duplicates in the data , normalization/standardization )  
+3.Dividing data into train and test( 80:20 ,70:30,60:40,50:50 respectively)  
 4.Approaches used :-  
 • Bagstacking(5 lightGBM base models, random forest meta learner )  
-(using k—fold cross validation)  
+(using k—fold cross validation)    
 • Bagstacking ( lightgbm , logistic regression , SVM , Random Forest are  
 the base models , and Random forest as the meta learner ) (using k—fold  
 cross validation)  
