@@ -41,11 +41,11 @@ of the skin  .
 
 
 # METHODOLOGY
-1.Dataset collection  
-2.Exploratory Data Analysis/Data pre-processing (handling missing values , balancing the data, removing  
+**1**.Dataset collection  
+**2**.Exploratory Data Analysis/Data pre-processing (handling missing values , balancing the data, removing  
 outliers , removing duplicates in the data , normalization/standardization )  
-3.Dividing data into train and test( 80:20 ,70:30,60:40,50:50 respectively)  
-4.Approaches used :-  
+**3**.Dividing data into train and test( 80:20 ,70:30,60:40,50:50 respectively)  
+**4**.Approaches used :-  
 • Bagstacking(5 lightGBM base models, random forest meta learner )  
 (using k—fold cross validation)    
 • Bagstacking ( lightgbm , logistic regression , SVM , Random Forest are  
@@ -53,5 +53,5 @@ the base models , and Random forest as the meta learner ) (using k—fold
 cross validation)  
 • Using models like lightgbm , svm , random forest , XGboost individually  
 to compare the results (k-fold cross validation is used for robust training )  
-5.Final evaluation using evaluation metrics like Accuacy , precesion , recall , F1
+**5**.Final evaluation using evaluation metrics like Accuacy , precesion , recall , F1
 score , MAP (Mean absolute prediction ) etc...
