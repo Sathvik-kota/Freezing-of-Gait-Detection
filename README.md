@@ -35,6 +35,8 @@ Electromyography (EMG): Placed on muscles involved in gait
 Electroencephalography (EEG): Electrodes placed on the scalp.    
 Skin Conductance Sensors: Measures the electrical conductance  
 of the skin  .
+Link :- https://data.mendeley.com/datasets/r8gmbtv7w2/3
+
 
 # METHODOLOGY
 1.Dataset collection  
