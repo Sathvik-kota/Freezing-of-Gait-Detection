@@ -49,7 +49,7 @@ of the skin  .
 
 
 # METHODOLOGY
-**1**.Dataset collection   
+**1**.Dataset collection    
 **2**.Exploratory Data Analysis/Data pre-processing (handling missing values , balancing the data, removing  
 outliers , removing duplicates in the data , normalization/standardization )  
 **3**.Dividing data into train and test( 80:20 ,70:30,60:40,50:50 respectively)  
